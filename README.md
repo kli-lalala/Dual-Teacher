@@ -1,7 +1,7 @@
 # Dual-Teacher
 Dual-Teacher: Integrating Intra-domain and Inter-domain Teachers for Annotation-Efficient Cardiac Segmentation
 
-by Kang Li, [Lequan Yu](https://yulequan.github.io/), [Shujun Wang](https://www.cse.cuhk.edu.hk/~sjwang) and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/).
+by Kang Li, [Shujun Wang](https://www.cse.cuhk.edu.hk/~sjwang), [Lequan Yu](https://yulequan.github.io/) and [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/).
 
 ## Introduction
 This repository is the Pytorch implementation of Dual-Teacher, accepted by MICCAI 2020.
