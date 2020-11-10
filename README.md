@@ -13,7 +13,7 @@ The journal version of our work for TMI, i.e., Dual-Teacher++, is in another rep
 </p>
 
 
-Our paper and code will be release soon.
+Our code will be release soon.
 
 
 ## Citation
