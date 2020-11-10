@@ -9,7 +9,7 @@ The journal version of our work for TMI, i.e., Dual-Teacher++, is in another [re
 
 <br/>
 <p align="center">
-  <img src="fig/main_frame.png">
+  <img src="main_frame.png">
 </p>
 
 
