@@ -5,7 +5,7 @@ by Kang Li, [Lequan Yu](https://yulequan.github.io/), [Shujun Wang](https://www.
 
 ## Introduction
 This repository is the Pytorch implementation of Dual-Teacher, accepted by MICCAI 2020.
-The journal version of our work for TMI, i.e., Dual-Teacher++, is in another [repository](https://github.com/kli-lalala/Dual-Teacher-).
+The journal version of our work for TMI, i.e., Dual-Teacher++, is in another repository [here](https://github.com/kli-lalala/Dual-Teacher-).
 
 <br/>
 <p align="center">
